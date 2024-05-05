@@ -2,7 +2,7 @@
 __pycache__/GoogleImageScraper.cpython-37.pyc
 ghostdriver.log
 webdriver/phantomjs.exe
-webdriver/*.exe
+
 webdriver/chromedriver_win32.zip
 __pycache__/GoogleImageScrappr.cpython-38.pyc
 __pycache__/*
@@ -11,3 +11,4 @@ photos
 .ipynb_checkpoints/juypter_main-checkpoint.ipynb
 webdriver/chromedriver.exe
 webdriver/LICENSE.chromedriver
+*.png
