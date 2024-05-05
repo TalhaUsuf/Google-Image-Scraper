@@ -1,0 +1,1655 @@
+2024-05-06 02:20:02,322 - __main__ - INFO - Webdriver path: C:\Users\th056\Documents\Google-Image-Scraper\webdriver\chromedriver.exe
+2024-05-06 02:20:02,322 - __main__ - INFO - number of images: 5
+2024-05-06 02:20:02,322 - __main__ - INFO - headless: True
+2024-05-06 02:20:02,322 - __main__ - INFO - min_resolution: (0, 0)
+2024-05-06 02:20:02,338 - __main__ - INFO - max_resolution: (9999, 9999)
+2024-05-06 02:20:02,338 - __main__ - INFO - max_missed: 10
+2024-05-06 02:20:02,342 - __main__ - INFO - number_of_workers: 1
+2024-05-06 02:20:02,342 - __main__ - INFO - keep_filenames: False
+2024-05-06 02:21:04,422 - __main__ - INFO - Webdriver path: C:\Users\th056\Documents\Google-Image-Scraper\webdriver\chromedriver.exe
+2024-05-06 02:21:04,438 - __main__ - INFO - number of images: 5
+2024-05-06 02:21:04,438 - __main__ - INFO - headless: True
+2024-05-06 02:21:04,438 - __main__ - INFO - min_resolution: (0, 0)
+2024-05-06 02:21:04,438 - __main__ - INFO - max_resolution: (9999, 9999)
+2024-05-06 02:21:04,438 - __main__ - INFO - max_missed: 10
+2024-05-06 02:21:04,454 - __main__ - INFO - number_of_workers: 1
+2024-05-06 02:21:04,454 - __main__ - INFO - keep_filenames: False
+2024-05-06 02:21:30,363 - __main__ - INFO - Webdriver path: C:\Users\th056\Documents\Google-Image-Scraper\webdriver\chromedriver.exe
+2024-05-06 02:21:30,363 - __main__ - INFO - number of images: 5
+2024-05-06 02:21:30,363 - __main__ - INFO - headless: False
+2024-05-06 02:21:30,363 - __main__ - INFO - min_resolution: (0, 0)
+2024-05-06 02:21:30,363 - __main__ - INFO - max_resolution: (9999, 9999)
+2024-05-06 02:21:30,379 - __main__ - INFO - max_missed: 10
+2024-05-06 02:21:30,379 - __main__ - INFO - number_of_workers: 1
+2024-05-06 02:21:30,379 - __main__ - INFO - keep_filenames: False
+2024-05-06 02:26:22,277 - my_logger - INFO - Webdriver path: C:\Users\th056\Documents\Google-Image-Scraper\webdriver\chromedriver.exe
+2024-05-06 02:26:22,281 - my_logger - INFO - number of images: 5
+2024-05-06 02:26:22,281 - my_logger - INFO - headless: False
+2024-05-06 02:26:22,281 - my_logger - INFO - min_resolution: (0, 0)
+2024-05-06 02:26:22,281 - my_logger - INFO - max_resolution: (9999, 9999)
+2024-05-06 02:26:22,292 - my_logger - INFO - max_missed: 10
+2024-05-06 02:26:22,294 - my_logger - INFO - number_of_workers: 1
+2024-05-06 02:26:22,294 - my_logger - INFO - keep_filenames: False
+2024-05-06 02:26:22,294 - my_logger - INFO - starting the test selenium
+2024-05-06 02:26:22,294 - my_logger - INFO - starting the test selenium
+2024-05-06 02:38:54,777 - my_logger - INFO - Webdriver path: C:\Users\th056\Documents\Google-Image-Scraper\webdriver\chromedriver.exe
+2024-05-06 02:38:54,777 - my_logger - INFO - number of images: 5
+2024-05-06 02:38:54,777 - my_logger - INFO - headless: False
+2024-05-06 02:38:54,777 - my_logger - INFO - min_resolution: (0, 0)
+2024-05-06 02:38:54,793 - my_logger - INFO - max_resolution: (9999, 9999)
+2024-05-06 02:38:54,793 - my_logger - INFO - max_missed: 10
+2024-05-06 02:38:54,797 - my_logger - INFO - number_of_workers: 1
+2024-05-06 02:38:54,797 - my_logger - INFO - keep_filenames: False
+2024-05-06 02:38:54,797 - my_logger - INFO - starting the test selenium
+2024-05-06 02:39:34,922 - my_logger - INFO - Found 0 images for search key: t-shirt
+2024-05-06 02:39:34,923 - my_logger - INFO - starting the test selenium
+2024-05-06 02:40:14,678 - my_logger - INFO - Found 0 images for search key: cat
+2024-05-06 02:41:50,758 - my_logger - INFO - Webdriver path: C:\Users\th056\Documents\Google-Image-Scraper\webdriver\chromedriver.exe
+2024-05-06 02:41:50,758 - my_logger - INFO - number of images: 5
+2024-05-06 02:41:50,768 - my_logger - INFO - headless: False
+2024-05-06 02:41:50,768 - my_logger - INFO - min_resolution: (0, 0)
+2024-05-06 02:41:50,772 - my_logger - INFO - max_resolution: (9999, 9999)
+2024-05-06 02:41:50,772 - my_logger - INFO - max_missed: 10
+2024-05-06 02:41:50,779 - my_logger - INFO - number_of_workers: 1
+2024-05-06 02:41:50,779 - my_logger - INFO - keep_filenames: False
+2024-05-06 02:41:50,779 - my_logger - INFO - starting the test selenium
+2024-05-06 02:42:30,269 - my_logger - INFO - Found 0 images for search key: t-shirt
+2024-05-06 02:42:30,269 - my_logger - INFO - starting the test selenium
+2024-05-06 02:43:08,902 - my_logger - INFO - Found 0 images for search key: cat
+2024-05-06 02:46:44,174 - my_logger - INFO - Found 229 images for search key: cat
+2024-05-06 02:49:47,240 - my_logger - INFO - Found 229 images for search key: cat
+2024-05-06 02:49:47,242 - my_logger - INFO - iterating 0 
+2024-05-06 02:49:47,242 - my_logger - INFO - iterating 7 
+2024-05-06 02:49:47,242 - my_logger - INFO - iterating 8 
+2024-05-06 02:49:47,242 - my_logger - INFO - iterating 9 
+2024-05-06 02:49:47,242 - my_logger - INFO - iterating 10 
+2024-05-06 02:49:47,242 - my_logger - INFO - iterating 11 
+2024-05-06 02:49:47,258 - my_logger - INFO - iterating 12 
+2024-05-06 02:49:47,258 - my_logger - INFO - iterating 13 
+2024-05-06 02:49:47,258 - my_logger - INFO - iterating 14 
+2024-05-06 02:49:47,258 - my_logger - INFO - iterating 15 
+2024-05-06 02:49:47,258 - my_logger - INFO - iterating 16 
+2024-05-06 02:49:47,258 - my_logger - INFO - iterating 17 
+2024-05-06 02:49:47,258 - my_logger - INFO - iterating 18 
+2024-05-06 02:49:47,258 - my_logger - INFO - iterating 19 
+2024-05-06 02:49:47,258 - my_logger - INFO - iterating 20 
+2024-05-06 02:49:47,275 - my_logger - INFO - iterating 21 
+2024-05-06 02:49:47,275 - my_logger - INFO - iterating 22 
+2024-05-06 02:49:47,275 - my_logger - INFO - iterating 23 
+2024-05-06 02:49:47,275 - my_logger - INFO - iterating 24 
+2024-05-06 02:49:47,282 - my_logger - INFO - iterating 25 
+2024-05-06 02:49:47,282 - my_logger - INFO - iterating 26 
+2024-05-06 02:49:47,282 - my_logger - INFO - iterating 27 
+2024-05-06 02:49:47,282 - my_logger - INFO - iterating 28 
+2024-05-06 02:49:47,282 - my_logger - INFO - iterating 29 
+2024-05-06 02:49:47,290 - my_logger - INFO - iterating 30 
+2024-05-06 02:49:47,290 - my_logger - INFO - iterating 31 
+2024-05-06 02:49:47,290 - my_logger - INFO - iterating 32 
+2024-05-06 02:49:47,290 - my_logger - INFO - iterating 33 
+2024-05-06 02:49:47,290 - my_logger - INFO - iterating 34 
+2024-05-06 02:49:47,290 - my_logger - INFO - iterating 35 
+2024-05-06 02:49:47,290 - my_logger - INFO - iterating 36 
+2024-05-06 02:49:47,290 - my_logger - INFO - iterating 37 
+2024-05-06 02:49:47,290 - my_logger - INFO - iterating 38 
+2024-05-06 02:49:47,306 - my_logger - INFO - iterating 39 
+2024-05-06 02:49:47,306 - my_logger - INFO - iterating 40 
+2024-05-06 02:49:47,306 - my_logger - INFO - iterating 41 
+2024-05-06 02:49:47,306 - my_logger - INFO - iterating 42 
+2024-05-06 02:49:47,315 - my_logger - INFO - iterating 43 
+2024-05-06 02:49:47,315 - my_logger - INFO - iterating 44 
+2024-05-06 02:49:47,315 - my_logger - INFO - iterating 45 
+2024-05-06 02:49:47,315 - my_logger - INFO - iterating 46 
+2024-05-06 02:49:47,322 - my_logger - INFO - iterating 47 
+2024-05-06 02:49:47,322 - my_logger - INFO - iterating 48 
+2024-05-06 02:49:47,322 - my_logger - INFO - iterating 49 
+2024-05-06 02:49:47,322 - my_logger - INFO - iterating 50 
+2024-05-06 02:49:47,322 - my_logger - INFO - iterating 51 
+2024-05-06 02:49:47,322 - my_logger - INFO - iterating 52 
+2024-05-06 02:49:47,334 - my_logger - INFO - iterating 53 
+2024-05-06 02:49:47,334 - my_logger - INFO - iterating 54 
+2024-05-06 02:49:47,339 - my_logger - INFO - iterating 55 
+2024-05-06 02:49:47,343 - my_logger - INFO - iterating 56 
+2024-05-06 02:49:47,343 - my_logger - INFO - iterating 57 
+2024-05-06 02:49:47,343 - my_logger - INFO - iterating 58 
+2024-05-06 02:49:47,343 - my_logger - INFO - iterating 59 
+2024-05-06 02:49:47,343 - my_logger - INFO - iterating 60 
+2024-05-06 02:49:47,354 - my_logger - INFO - iterating 61 
+2024-05-06 02:49:47,354 - my_logger - INFO - iterating 62 
+2024-05-06 02:49:47,354 - my_logger - INFO - iterating 63 
+2024-05-06 02:49:47,361 - my_logger - INFO - iterating 64 
+2024-05-06 02:49:47,361 - my_logger - INFO - iterating 65 
+2024-05-06 02:49:47,361 - my_logger - INFO - iterating 66 
+2024-05-06 02:49:47,361 - my_logger - INFO - iterating 67 
+2024-05-06 02:49:47,361 - my_logger - INFO - iterating 68 
+2024-05-06 02:49:47,370 - my_logger - INFO - iterating 69 
+2024-05-06 02:49:47,370 - my_logger - INFO - iterating 70 
+2024-05-06 02:49:47,370 - my_logger - INFO - iterating 71 
+2024-05-06 02:49:47,370 - my_logger - INFO - iterating 72 
+2024-05-06 02:49:47,370 - my_logger - INFO - iterating 73 
+2024-05-06 02:49:47,370 - my_logger - INFO - iterating 74 
+2024-05-06 02:49:47,370 - my_logger - INFO - iterating 75 
+2024-05-06 02:49:47,370 - my_logger - INFO - iterating 76 
+2024-05-06 02:49:47,386 - my_logger - INFO - iterating 77 
+2024-05-06 02:49:47,386 - my_logger - INFO - iterating 78 
+2024-05-06 02:49:47,386 - my_logger - INFO - iterating 79 
+2024-05-06 02:49:47,386 - my_logger - INFO - iterating 80 
+2024-05-06 02:49:47,386 - my_logger - INFO - iterating 81 
+2024-05-06 02:49:47,386 - my_logger - INFO - iterating 82 
+2024-05-06 02:49:47,386 - my_logger - INFO - iterating 83 
+2024-05-06 02:49:47,386 - my_logger - INFO - iterating 84 
+2024-05-06 02:49:47,401 - my_logger - INFO - iterating 85 
+2024-05-06 02:49:47,402 - my_logger - INFO - iterating 86 
+2024-05-06 02:49:47,402 - my_logger - INFO - iterating 87 
+2024-05-06 02:49:47,402 - my_logger - INFO - iterating 88 
+2024-05-06 02:49:47,402 - my_logger - INFO - iterating 89 
+2024-05-06 02:49:47,402 - my_logger - INFO - iterating 90 
+2024-05-06 02:49:47,402 - my_logger - INFO - iterating 91 
+2024-05-06 02:49:47,417 - my_logger - INFO - iterating 92 
+2024-05-06 02:49:47,417 - my_logger - INFO - iterating 93 
+2024-05-06 02:49:47,417 - my_logger - INFO - iterating 94 
+2024-05-06 02:49:47,417 - my_logger - INFO - iterating 95 
+2024-05-06 02:49:47,417 - my_logger - INFO - iterating 96 
+2024-05-06 02:49:47,417 - my_logger - INFO - iterating 97 
+2024-05-06 02:49:47,417 - my_logger - INFO - iterating 98 
+2024-05-06 02:49:47,417 - my_logger - INFO - iterating 99 
+2024-05-06 02:49:47,433 - my_logger - INFO - iterating 100 
+2024-05-06 02:49:47,433 - my_logger - INFO - iterating 101 
+2024-05-06 02:49:47,433 - my_logger - INFO - iterating 102 
+2024-05-06 02:49:47,433 - my_logger - INFO - iterating 103 
+2024-05-06 02:49:47,441 - my_logger - INFO - iterating 104 
+2024-05-06 02:49:47,441 - my_logger - INFO - iterating 105 
+2024-05-06 02:49:47,441 - my_logger - INFO - iterating 106 
+2024-05-06 02:49:47,446 - my_logger - INFO - iterating 107 
+2024-05-06 02:49:47,449 - my_logger - INFO - iterating 108 
+2024-05-06 02:49:47,449 - my_logger - INFO - iterating 109 
+2024-05-06 02:49:47,449 - my_logger - INFO - iterating 110 
+2024-05-06 02:49:47,449 - my_logger - INFO - iterating 111 
+2024-05-06 02:49:47,449 - my_logger - INFO - iterating 112 
+2024-05-06 02:49:47,449 - my_logger - INFO - iterating 113 
+2024-05-06 02:49:47,449 - my_logger - INFO - iterating 114 
+2024-05-06 02:49:47,464 - my_logger - INFO - iterating 115 
+2024-05-06 02:49:47,464 - my_logger - INFO - iterating 116 
+2024-05-06 02:49:47,464 - my_logger - INFO - iterating 117 
+2024-05-06 02:49:47,473 - my_logger - INFO - iterating 118 
+2024-05-06 02:49:47,473 - my_logger - INFO - iterating 119 
+2024-05-06 02:49:47,473 - my_logger - INFO - iterating 120 
+2024-05-06 02:49:47,480 - my_logger - INFO - iterating 121 
+2024-05-06 02:49:47,487 - my_logger - INFO - iterating 122 
+2024-05-06 02:49:47,488 - my_logger - INFO - iterating 123 
+2024-05-06 02:49:47,488 - my_logger - INFO - iterating 124 
+2024-05-06 02:49:47,496 - my_logger - INFO - iterating 125 
+2024-05-06 02:49:47,498 - my_logger - INFO - iterating 126 
+2024-05-06 02:49:47,502 - my_logger - INFO - iterating 127 
+2024-05-06 02:49:47,508 - my_logger - INFO - iterating 128 
+2024-05-06 02:49:47,508 - my_logger - INFO - iterating 129 
+2024-05-06 02:49:47,508 - my_logger - INFO - iterating 130 
+2024-05-06 02:49:47,508 - my_logger - INFO - iterating 131 
+2024-05-06 02:49:47,519 - my_logger - INFO - iterating 132 
+2024-05-06 02:49:47,521 - my_logger - INFO - iterating 133 
+2024-05-06 02:49:47,521 - my_logger - INFO - iterating 134 
+2024-05-06 02:49:47,521 - my_logger - INFO - iterating 135 
+2024-05-06 02:49:47,521 - my_logger - INFO - iterating 136 
+2024-05-06 02:49:47,521 - my_logger - INFO - iterating 137 
+2024-05-06 02:49:47,521 - my_logger - INFO - iterating 138 
+2024-05-06 02:49:47,533 - my_logger - INFO - iterating 139 
+2024-05-06 02:49:47,533 - my_logger - INFO - iterating 140 
+2024-05-06 02:49:47,533 - my_logger - INFO - iterating 141 
+2024-05-06 02:49:47,541 - my_logger - INFO - iterating 142 
+2024-05-06 02:49:47,544 - my_logger - INFO - iterating 143 
+2024-05-06 02:49:47,544 - my_logger - INFO - iterating 144 
+2024-05-06 02:49:47,550 - my_logger - INFO - iterating 145 
+2024-05-06 02:49:47,550 - my_logger - INFO - iterating 146 
+2024-05-06 02:49:47,550 - my_logger - INFO - iterating 147 
+2024-05-06 02:49:47,550 - my_logger - INFO - iterating 148 
+2024-05-06 02:49:47,558 - my_logger - INFO - iterating 149 
+2024-05-06 02:49:47,558 - my_logger - INFO - iterating 150 
+2024-05-06 02:49:47,558 - my_logger - INFO - iterating 151 
+2024-05-06 02:49:47,558 - my_logger - INFO - iterating 152 
+2024-05-06 02:49:47,558 - my_logger - INFO - iterating 153 
+2024-05-06 02:49:47,558 - my_logger - INFO - iterating 154 
+2024-05-06 02:49:47,558 - my_logger - INFO - iterating 155 
+2024-05-06 02:49:47,558 - my_logger - INFO - iterating 156 
+2024-05-06 02:49:47,573 - my_logger - INFO - iterating 157 
+2024-05-06 02:49:47,573 - my_logger - INFO - iterating 158 
+2024-05-06 02:49:47,573 - my_logger - INFO - iterating 159 
+2024-05-06 02:49:47,573 - my_logger - INFO - iterating 160 
+2024-05-06 02:49:47,573 - my_logger - INFO - iterating 161 
+2024-05-06 02:49:47,573 - my_logger - INFO - iterating 162 
+2024-05-06 02:49:47,573 - my_logger - INFO - iterating 163 
+2024-05-06 02:49:47,573 - my_logger - INFO - iterating 164 
+2024-05-06 02:49:47,573 - my_logger - INFO - iterating 165 
+2024-05-06 02:49:47,590 - my_logger - INFO - iterating 166 
+2024-05-06 02:49:47,590 - my_logger - INFO - iterating 167 
+2024-05-06 02:49:47,592 - my_logger - INFO - iterating 168 
+2024-05-06 02:49:47,592 - my_logger - INFO - iterating 169 
+2024-05-06 02:49:47,597 - my_logger - INFO - iterating 170 
+2024-05-06 02:49:47,597 - my_logger - INFO - iterating 171 
+2024-05-06 02:49:47,597 - my_logger - INFO - iterating 172 
+2024-05-06 02:49:47,597 - my_logger - INFO - iterating 173 
+2024-05-06 02:49:47,605 - my_logger - INFO - iterating 174 
+2024-05-06 02:49:47,605 - my_logger - INFO - iterating 175 
+2024-05-06 02:49:47,605 - my_logger - INFO - iterating 176 
+2024-05-06 02:49:47,605 - my_logger - INFO - iterating 177 
+2024-05-06 02:49:47,605 - my_logger - INFO - iterating 178 
+2024-05-06 02:49:47,605 - my_logger - INFO - iterating 179 
+2024-05-06 02:49:47,605 - my_logger - INFO - iterating 180 
+2024-05-06 02:49:47,605 - my_logger - INFO - iterating 181 
+2024-05-06 02:49:47,605 - my_logger - INFO - iterating 182 
+2024-05-06 02:49:47,621 - my_logger - INFO - iterating 183 
+2024-05-06 02:49:47,621 - my_logger - INFO - iterating 184 
+2024-05-06 02:49:47,621 - my_logger - INFO - iterating 185 
+2024-05-06 02:49:47,621 - my_logger - INFO - iterating 186 
+2024-05-06 02:49:47,621 - my_logger - INFO - iterating 187 
+2024-05-06 02:49:47,621 - my_logger - INFO - iterating 188 
+2024-05-06 02:49:47,621 - my_logger - INFO - iterating 189 
+2024-05-06 02:49:47,621 - my_logger - INFO - iterating 190 
+2024-05-06 02:49:47,637 - my_logger - INFO - iterating 191 
+2024-05-06 02:49:47,641 - my_logger - INFO - iterating 192 
+2024-05-06 02:49:47,641 - my_logger - INFO - iterating 193 
+2024-05-06 02:49:47,645 - my_logger - INFO - iterating 194 
+2024-05-06 02:49:47,645 - my_logger - INFO - iterating 195 
+2024-05-06 02:49:47,645 - my_logger - INFO - iterating 196 
+2024-05-06 02:49:47,650 - my_logger - INFO - iterating 197 
+2024-05-06 02:49:47,650 - my_logger - INFO - iterating 198 
+2024-05-06 02:49:47,653 - my_logger - INFO - iterating 199 
+2024-05-06 02:49:47,653 - my_logger - INFO - iterating 200 
+2024-05-06 02:49:47,653 - my_logger - INFO - iterating 201 
+2024-05-06 02:49:47,653 - my_logger - INFO - iterating 202 
+2024-05-06 02:49:47,653 - my_logger - INFO - iterating 203 
+2024-05-06 02:49:47,653 - my_logger - INFO - iterating 204 
+2024-05-06 02:49:47,653 - my_logger - INFO - iterating 205 
+2024-05-06 02:49:47,653 - my_logger - INFO - iterating 206 
+2024-05-06 02:49:47,669 - my_logger - INFO - iterating 207 
+2024-05-06 02:49:47,669 - my_logger - INFO - iterating 208 
+2024-05-06 02:49:47,669 - my_logger - INFO - iterating 209 
+2024-05-06 02:49:47,669 - my_logger - INFO - iterating 210 
+2024-05-06 02:49:47,669 - my_logger - INFO - iterating 211 
+2024-05-06 02:49:47,669 - my_logger - INFO - iterating 212 
+2024-05-06 02:49:47,669 - my_logger - INFO - iterating 213 
+2024-05-06 02:49:47,684 - my_logger - INFO - iterating 214 
+2024-05-06 02:49:47,684 - my_logger - INFO - iterating 215 
+2024-05-06 02:49:47,684 - my_logger - INFO - iterating 216 
+2024-05-06 02:49:47,684 - my_logger - INFO - iterating 217 
+2024-05-06 02:49:47,684 - my_logger - INFO - iterating 218 
+2024-05-06 02:49:47,684 - my_logger - INFO - iterating 219 
+2024-05-06 02:49:47,684 - my_logger - INFO - iterating 220 
+2024-05-06 02:49:47,701 - my_logger - INFO - iterating 221 
+2024-05-06 02:49:47,701 - my_logger - INFO - iterating 222 
+2024-05-06 02:49:47,701 - my_logger - INFO - iterating 223 
+2024-05-06 02:49:47,701 - my_logger - INFO - iterating 224 
+2024-05-06 02:49:47,701 - my_logger - INFO - iterating 225 
+2024-05-06 02:49:47,701 - my_logger - INFO - iterating 226 
+2024-05-06 02:49:47,701 - my_logger - INFO - iterating 227 
+2024-05-06 02:49:47,701 - my_logger - INFO - iterating 228 
+2024-05-06 02:55:48,866 - my_logger - INFO - Found 229 images for search key: cat
+2024-05-06 02:55:48,870 - my_logger - INFO - iterating 0 
+2024-05-06 02:55:48,872 - my_logger - INFO - iterating 7 
+2024-05-06 02:55:49,043 - my_logger - INFO - iterating 8 
+2024-05-06 02:55:49,210 - my_logger - INFO - iterating 9 
+2024-05-06 02:55:49,377 - my_logger - INFO - iterating 10 
+2024-05-06 02:55:49,543 - my_logger - INFO - iterating 11 
+2024-05-06 02:55:49,702 - my_logger - INFO - iterating 12 
+2024-05-06 02:55:49,705 - my_logger - INFO - iterating 13 
+2024-05-06 02:55:49,707 - my_logger - INFO - iterating 14 
+2024-05-06 02:55:49,709 - my_logger - INFO - iterating 15 
+2024-05-06 02:55:49,711 - my_logger - INFO - iterating 16 
+2024-05-06 02:55:49,712 - my_logger - INFO - iterating 17 
+2024-05-06 02:55:49,973 - my_logger - INFO - iterating 18 
+2024-05-06 02:55:50,139 - my_logger - INFO - iterating 19 
+2024-05-06 02:55:50,411 - my_logger - INFO - iterating 20 
+2024-05-06 02:55:50,564 - my_logger - INFO - iterating 21 
+2024-05-06 02:55:50,844 - my_logger - INFO - iterating 22 
+2024-05-06 02:55:51,002 - my_logger - INFO - iterating 23 
+2024-05-06 02:55:51,249 - my_logger - INFO - iterating 24 
+2024-05-06 02:55:51,396 - my_logger - INFO - iterating 25 
+2024-05-06 02:55:51,630 - my_logger - INFO - iterating 26 
+2024-05-06 02:55:51,778 - my_logger - INFO - iterating 27 
+2024-05-06 02:55:52,014 - my_logger - INFO - iterating 28 
+2024-05-06 02:55:52,164 - my_logger - INFO - iterating 29 
+2024-05-06 02:55:52,407 - my_logger - INFO - iterating 30 
+2024-05-06 02:55:52,570 - my_logger - INFO - iterating 31 
+2024-05-06 02:55:52,848 - my_logger - INFO - iterating 32 
+2024-05-06 02:55:53,003 - my_logger - INFO - iterating 33 
+2024-05-06 02:55:53,220 - my_logger - INFO - iterating 34 
+2024-05-06 02:55:53,375 - my_logger - INFO - iterating 35 
+2024-05-06 02:55:53,670 - my_logger - INFO - iterating 36 
+2024-05-06 02:55:53,836 - my_logger - INFO - iterating 37 
+2024-05-06 02:55:54,104 - my_logger - INFO - iterating 38 
+2024-05-06 02:55:54,276 - my_logger - INFO - iterating 39 
+2024-05-06 02:55:54,527 - my_logger - INFO - iterating 40 
+2024-05-06 02:55:54,699 - my_logger - INFO - iterating 41 
+2024-05-06 02:55:54,978 - my_logger - INFO - iterating 42 
+2024-05-06 02:55:55,129 - my_logger - INFO - iterating 43 
+2024-05-06 02:55:55,383 - my_logger - INFO - iterating 44 
+2024-05-06 02:55:55,588 - my_logger - INFO - iterating 45 
+2024-05-06 02:55:55,883 - my_logger - INFO - iterating 46 
+2024-05-06 02:55:56,092 - my_logger - INFO - iterating 47 
+2024-05-06 02:55:56,407 - my_logger - INFO - iterating 48 
+2024-05-06 02:55:56,600 - my_logger - INFO - iterating 49 
+2024-05-06 02:55:56,921 - my_logger - INFO - iterating 50 
+2024-05-06 02:55:57,104 - my_logger - INFO - iterating 51 
+2024-05-06 02:55:57,401 - my_logger - INFO - iterating 52 
+2024-05-06 02:55:57,586 - my_logger - INFO - iterating 53 
+2024-05-06 02:55:57,874 - my_logger - INFO - iterating 54 
+2024-05-06 02:55:58,067 - my_logger - INFO - iterating 55 
+2024-05-06 02:55:58,356 - my_logger - INFO - iterating 56 
+2024-05-06 02:55:58,547 - my_logger - INFO - iterating 57 
+2024-05-06 02:55:58,827 - my_logger - INFO - iterating 58 
+2024-05-06 02:55:59,023 - my_logger - INFO - iterating 59 
+2024-05-06 02:55:59,282 - my_logger - INFO - iterating 60 
+2024-05-06 02:55:59,457 - my_logger - INFO - iterating 61 
+2024-05-06 02:55:59,723 - my_logger - INFO - iterating 62 
+2024-05-06 02:55:59,905 - my_logger - INFO - iterating 63 
+2024-05-06 02:56:00,178 - my_logger - INFO - iterating 64 
+2024-05-06 02:56:00,357 - my_logger - INFO - iterating 65 
+2024-05-06 02:56:00,518 - my_logger - INFO - iterating 66 
+2024-05-06 02:56:00,680 - my_logger - INFO - iterating 67 
+2024-05-06 02:56:00,837 - my_logger - INFO - iterating 68 
+2024-05-06 02:56:01,095 - my_logger - INFO - iterating 69 
+2024-05-06 02:56:01,244 - my_logger - INFO - iterating 70 
+2024-05-06 02:56:01,504 - my_logger - INFO - iterating 71 
+2024-05-06 02:56:01,676 - my_logger - INFO - iterating 72 
+2024-05-06 02:56:01,913 - my_logger - INFO - iterating 73 
+2024-05-06 02:56:02,071 - my_logger - INFO - iterating 74 
+2024-05-06 02:56:02,332 - my_logger - INFO - iterating 75 
+2024-05-06 02:56:02,486 - my_logger - INFO - iterating 76 
+2024-05-06 02:56:02,758 - my_logger - INFO - iterating 77 
+2024-05-06 02:56:02,905 - my_logger - INFO - iterating 78 
+2024-05-06 02:56:03,170 - my_logger - INFO - iterating 79 
+2024-05-06 02:56:03,320 - my_logger - INFO - iterating 80 
+2024-05-06 02:56:03,585 - my_logger - INFO - iterating 81 
+2024-05-06 02:56:03,739 - my_logger - INFO - iterating 82 
+2024-05-06 02:56:04,004 - my_logger - INFO - iterating 83 
+2024-05-06 02:56:04,177 - my_logger - INFO - iterating 84 
+2024-05-06 02:56:04,449 - my_logger - INFO - iterating 85 
+2024-05-06 02:56:04,601 - my_logger - INFO - iterating 86 
+2024-05-06 02:56:04,854 - my_logger - INFO - iterating 87 
+2024-05-06 02:56:05,026 - my_logger - INFO - iterating 88 
+2024-05-06 02:56:05,306 - my_logger - INFO - iterating 89 
+2024-05-06 02:56:05,471 - my_logger - INFO - iterating 90 
+2024-05-06 02:56:05,795 - my_logger - INFO - iterating 91 
+2024-05-06 02:56:05,951 - my_logger - INFO - iterating 92 
+2024-05-06 02:56:06,174 - my_logger - INFO - iterating 93 
+2024-05-06 02:56:06,324 - my_logger - INFO - iterating 94 
+2024-05-06 02:56:06,462 - my_logger - INFO - iterating 95 
+2024-05-06 02:56:06,610 - my_logger - INFO - iterating 96 
+2024-05-06 02:56:06,739 - my_logger - INFO - iterating 97 
+2024-05-06 02:56:06,907 - my_logger - INFO - iterating 98 
+2024-05-06 02:56:07,042 - my_logger - INFO - iterating 99 
+2024-05-06 02:56:07,190 - my_logger - INFO - iterating 100 
+2024-05-06 02:56:07,326 - my_logger - INFO - iterating 101 
+2024-05-06 02:56:07,471 - my_logger - INFO - iterating 102 
+2024-05-06 02:56:07,610 - my_logger - INFO - iterating 103 
+2024-05-06 02:56:07,775 - my_logger - INFO - iterating 104 
+2024-05-06 02:56:07,906 - my_logger - INFO - iterating 105 
+2024-05-06 02:56:08,050 - my_logger - INFO - iterating 106 
+2024-05-06 02:56:08,183 - my_logger - INFO - iterating 107 
+2024-05-06 02:56:08,342 - my_logger - INFO - iterating 108 
+2024-05-06 02:56:08,483 - my_logger - INFO - iterating 109 
+2024-05-06 02:56:08,623 - my_logger - INFO - iterating 110 
+2024-05-06 02:56:08,760 - my_logger - INFO - iterating 111 
+2024-05-06 02:56:08,903 - my_logger - INFO - iterating 112 
+2024-05-06 02:56:09,043 - my_logger - INFO - iterating 113 
+2024-05-06 02:56:09,186 - my_logger - INFO - iterating 114 
+2024-05-06 02:56:09,319 - my_logger - INFO - iterating 115 
+2024-05-06 02:56:09,561 - my_logger - INFO - iterating 116 
+2024-05-06 02:56:09,711 - my_logger - INFO - iterating 117 
+2024-05-06 02:56:09,875 - my_logger - INFO - iterating 118 
+2024-05-06 02:56:10,060 - my_logger - INFO - iterating 119 
+2024-05-06 02:56:10,195 - my_logger - INFO - iterating 120 
+2024-05-06 02:56:10,356 - my_logger - INFO - iterating 121 
+2024-05-06 02:56:10,496 - my_logger - INFO - iterating 122 
+2024-05-06 02:56:10,664 - my_logger - INFO - iterating 123 
+2024-05-06 02:56:10,813 - my_logger - INFO - iterating 124 
+2024-05-06 02:56:11,002 - my_logger - INFO - iterating 125 
+2024-05-06 02:56:11,151 - my_logger - INFO - iterating 126 
+2024-05-06 02:56:11,318 - my_logger - INFO - iterating 127 
+2024-05-06 02:56:11,462 - my_logger - INFO - iterating 128 
+2024-05-06 02:56:11,617 - my_logger - INFO - iterating 129 
+2024-05-06 02:56:11,750 - my_logger - INFO - iterating 130 
+2024-05-06 02:56:11,897 - my_logger - INFO - iterating 131 
+2024-05-06 02:56:12,026 - my_logger - INFO - iterating 132 
+2024-05-06 02:56:12,176 - my_logger - INFO - iterating 133 
+2024-05-06 02:56:12,307 - my_logger - INFO - iterating 134 
+2024-05-06 02:56:12,458 - my_logger - INFO - iterating 135 
+2024-05-06 02:56:12,584 - my_logger - INFO - iterating 136 
+2024-05-06 02:56:12,736 - my_logger - INFO - iterating 137 
+2024-05-06 02:56:12,873 - my_logger - INFO - iterating 138 
+2024-05-06 02:56:13,023 - my_logger - INFO - iterating 139 
+2024-05-06 02:56:13,157 - my_logger - INFO - iterating 140 
+2024-05-06 02:56:13,300 - my_logger - INFO - iterating 141 
+2024-05-06 02:56:13,442 - my_logger - INFO - iterating 142 
+2024-05-06 02:56:13,581 - my_logger - INFO - iterating 143 
+2024-05-06 02:56:13,723 - my_logger - INFO - iterating 144 
+2024-05-06 02:56:13,874 - my_logger - INFO - iterating 145 
+2024-05-06 02:56:14,011 - my_logger - INFO - iterating 146 
+2024-05-06 02:56:14,155 - my_logger - INFO - iterating 147 
+2024-05-06 02:56:14,285 - my_logger - INFO - iterating 148 
+2024-05-06 02:56:14,440 - my_logger - INFO - iterating 149 
+2024-05-06 02:56:14,585 - my_logger - INFO - iterating 150 
+2024-05-06 02:56:14,738 - my_logger - INFO - iterating 151 
+2024-05-06 02:56:14,873 - my_logger - INFO - iterating 152 
+2024-05-06 02:56:15,024 - my_logger - INFO - iterating 153 
+2024-05-06 02:56:15,157 - my_logger - INFO - iterating 154 
+2024-05-06 02:56:15,315 - my_logger - INFO - iterating 155 
+2024-05-06 02:56:15,453 - my_logger - INFO - iterating 156 
+2024-05-06 02:56:15,607 - my_logger - INFO - iterating 157 
+2024-05-06 02:56:15,740 - my_logger - INFO - iterating 158 
+2024-05-06 02:56:15,930 - my_logger - INFO - iterating 159 
+2024-05-06 02:56:16,097 - my_logger - INFO - iterating 160 
+2024-05-06 02:56:16,280 - my_logger - INFO - iterating 161 
+2024-05-06 02:56:16,481 - my_logger - INFO - iterating 162 
+2024-05-06 02:56:16,686 - my_logger - INFO - iterating 163 
+2024-05-06 02:56:16,874 - my_logger - INFO - iterating 164 
+2024-05-06 02:56:17,067 - my_logger - INFO - iterating 165 
+2024-05-06 02:56:17,220 - my_logger - INFO - iterating 166 
+2024-05-06 02:56:17,431 - my_logger - INFO - iterating 167 
+2024-05-06 02:56:17,620 - my_logger - INFO - iterating 168 
+2024-05-06 02:56:17,807 - my_logger - INFO - iterating 169 
+2024-05-06 02:56:18,008 - my_logger - INFO - iterating 170 
+2024-05-06 02:56:18,165 - my_logger - INFO - iterating 171 
+2024-05-06 02:56:18,354 - my_logger - INFO - iterating 172 
+2024-05-06 02:56:18,579 - my_logger - INFO - iterating 173 
+2024-05-06 02:56:18,793 - my_logger - INFO - iterating 174 
+2024-05-06 02:56:18,976 - my_logger - INFO - iterating 175 
+2024-05-06 02:56:19,184 - my_logger - INFO - iterating 176 
+2024-05-06 02:56:19,344 - my_logger - INFO - iterating 177 
+2024-05-06 02:56:19,551 - my_logger - INFO - iterating 178 
+2024-05-06 02:56:19,747 - my_logger - INFO - iterating 179 
+2024-05-06 02:56:19,932 - my_logger - INFO - iterating 180 
+2024-05-06 02:56:20,124 - my_logger - INFO - iterating 181 
+2024-05-06 02:56:20,330 - my_logger - INFO - iterating 182 
+2024-05-06 02:56:20,538 - my_logger - INFO - iterating 183 
+2024-05-06 02:56:20,713 - my_logger - INFO - iterating 184 
+2024-05-06 02:56:20,862 - my_logger - INFO - iterating 185 
+2024-05-06 02:56:21,048 - my_logger - INFO - iterating 186 
+2024-05-06 02:56:21,213 - my_logger - INFO - iterating 187 
+2024-05-06 02:56:21,395 - my_logger - INFO - iterating 188 
+2024-05-06 02:56:21,566 - my_logger - INFO - iterating 189 
+2024-05-06 02:56:21,734 - my_logger - INFO - iterating 190 
+2024-05-06 02:56:21,884 - my_logger - INFO - iterating 191 
+2024-05-06 02:56:22,069 - my_logger - INFO - iterating 192 
+2024-05-06 02:56:22,229 - my_logger - INFO - iterating 193 
+2024-05-06 02:56:22,391 - my_logger - INFO - iterating 194 
+2024-05-06 02:56:22,559 - my_logger - INFO - iterating 195 
+2024-05-06 02:56:22,735 - my_logger - INFO - iterating 196 
+2024-05-06 02:56:22,915 - my_logger - INFO - iterating 197 
+2024-05-06 02:56:23,122 - my_logger - INFO - iterating 198 
+2024-05-06 02:56:23,318 - my_logger - INFO - iterating 199 
+2024-05-06 02:56:23,521 - my_logger - INFO - iterating 200 
+2024-05-06 02:56:23,732 - my_logger - INFO - iterating 201 
+2024-05-06 02:56:23,935 - my_logger - INFO - iterating 202 
+2024-05-06 02:56:24,125 - my_logger - INFO - iterating 203 
+2024-05-06 02:56:24,315 - my_logger - INFO - iterating 204 
+2024-05-06 02:56:24,502 - my_logger - INFO - iterating 205 
+2024-05-06 02:56:24,713 - my_logger - INFO - iterating 206 
+2024-05-06 02:56:24,901 - my_logger - INFO - iterating 207 
+2024-05-06 02:56:25,093 - my_logger - INFO - iterating 208 
+2024-05-06 02:56:25,261 - my_logger - INFO - iterating 209 
+2024-05-06 02:56:25,527 - my_logger - INFO - iterating 210 
+2024-05-06 02:56:25,707 - my_logger - INFO - iterating 211 
+2024-05-06 02:56:25,901 - my_logger - INFO - iterating 212 
+2024-05-06 02:56:26,096 - my_logger - INFO - iterating 213 
+2024-05-06 02:56:26,286 - my_logger - INFO - iterating 214 
+2024-05-06 02:56:26,497 - my_logger - INFO - iterating 215 
+2024-05-06 02:56:26,684 - my_logger - INFO - iterating 216 
+2024-05-06 02:56:26,880 - my_logger - INFO - iterating 217 
+2024-05-06 02:56:27,055 - my_logger - INFO - iterating 218 
+2024-05-06 02:56:27,234 - my_logger - INFO - iterating 219 
+2024-05-06 02:56:27,404 - my_logger - INFO - iterating 220 
+2024-05-06 02:56:27,574 - my_logger - INFO - iterating 221 
+2024-05-06 02:56:27,767 - my_logger - INFO - iterating 222 
+2024-05-06 02:56:27,948 - my_logger - INFO - iterating 223 
+2024-05-06 02:56:28,118 - my_logger - INFO - iterating 224 
+2024-05-06 02:56:28,296 - my_logger - INFO - iterating 225 
+2024-05-06 02:56:28,473 - my_logger - INFO - iterating 226 
+2024-05-06 02:56:28,647 - my_logger - INFO - iterating 227 
+2024-05-06 02:56:28,820 - my_logger - INFO - iterating 228 
+2024-05-06 02:59:03,462 - my_logger - INFO - Found 247 images for search key: cat
+2024-05-06 02:59:03,462 - my_logger - INFO - iterating 0 
+2024-05-06 02:59:03,462 - my_logger - INFO - iterating 7 
+2024-05-06 02:59:03,718 - my_logger - INFO - iterating 8 
+2024-05-06 02:59:03,876 - my_logger - INFO - iterating 9 
+2024-05-06 02:59:04,039 - my_logger - INFO - iterating 10 
+2024-05-06 02:59:04,204 - my_logger - INFO - iterating 11 
+2024-05-06 02:59:04,362 - my_logger - INFO - iterating 12 
+2024-05-06 02:59:04,366 - my_logger - INFO - iterating 13 
+2024-05-06 02:59:04,368 - my_logger - INFO - iterating 14 
+2024-05-06 02:59:04,368 - my_logger - INFO - iterating 15 
+2024-05-06 02:59:04,368 - my_logger - INFO - iterating 16 
+2024-05-06 02:59:04,373 - my_logger - INFO - iterating 17 
+2024-05-06 02:59:04,375 - my_logger - INFO - iterating 18 
+2024-05-06 02:59:04,375 - my_logger - INFO - iterating 19 
+2024-05-06 02:59:04,378 - my_logger - INFO - iterating 20 
+2024-05-06 02:59:04,510 - my_logger - INFO - iterating 21 
+2024-05-06 02:59:04,641 - my_logger - INFO - iterating 22 
+2024-05-06 02:59:04,817 - my_logger - INFO - iterating 23 
+2024-05-06 02:59:04,982 - my_logger - INFO - iterating 24 
+2024-05-06 02:59:05,131 - my_logger - INFO - iterating 25 
+2024-05-06 02:59:05,290 - my_logger - INFO - iterating 26 
+2024-05-06 02:59:05,413 - my_logger - INFO - iterating 27 
+2024-05-06 02:59:05,569 - my_logger - INFO - iterating 28 
+2024-05-06 02:59:05,719 - my_logger - INFO - iterating 29 
+2024-05-06 02:59:05,846 - my_logger - INFO - iterating 30 
+2024-05-06 02:59:05,995 - my_logger - INFO - iterating 31 
+2024-05-06 02:59:06,116 - my_logger - INFO - iterating 32 
+2024-05-06 02:59:06,254 - my_logger - INFO - iterating 33 
+2024-05-06 02:59:06,386 - my_logger - INFO - iterating 34 
+2024-05-06 02:59:06,521 - my_logger - INFO - iterating 35 
+2024-05-06 02:59:06,521 - my_logger - INFO - iterating 36 
+2024-05-06 02:59:06,775 - my_logger - INFO - iterating 37 
+2024-05-06 02:59:06,925 - my_logger - INFO - iterating 38 
+2024-05-06 02:59:07,183 - my_logger - INFO - iterating 39 
+2024-05-06 02:59:07,330 - my_logger - INFO - iterating 40 
+2024-05-06 02:59:07,661 - my_logger - INFO - iterating 41 
+2024-05-06 02:59:07,820 - my_logger - INFO - iterating 42 
+2024-05-06 02:59:08,111 - my_logger - INFO - iterating 43 
+2024-05-06 02:59:08,270 - my_logger - INFO - iterating 44 
+2024-05-06 02:59:08,537 - my_logger - INFO - iterating 45 
+2024-05-06 02:59:08,704 - my_logger - INFO - iterating 46 
+2024-05-06 02:59:08,996 - my_logger - INFO - iterating 47 
+2024-05-06 02:59:09,178 - my_logger - INFO - iterating 48 
+2024-05-06 02:59:09,453 - my_logger - INFO - iterating 49 
+2024-05-06 02:59:09,645 - my_logger - INFO - iterating 50 
+2024-05-06 02:59:09,959 - my_logger - INFO - iterating 51 
+2024-05-06 02:59:10,175 - my_logger - INFO - iterating 52 
+2024-05-06 02:59:10,492 - my_logger - INFO - iterating 53 
+2024-05-06 02:59:10,695 - my_logger - INFO - iterating 54 
+2024-05-06 02:59:11,021 - my_logger - INFO - iterating 55 
+2024-05-06 02:59:11,221 - my_logger - INFO - iterating 56 
+2024-05-06 02:59:11,545 - my_logger - INFO - iterating 57 
+2024-05-06 02:59:11,724 - my_logger - INFO - iterating 58 
+2024-05-06 02:59:12,001 - my_logger - INFO - iterating 59 
+2024-05-06 02:59:12,258 - my_logger - INFO - iterating 60 
+2024-05-06 02:59:12,567 - my_logger - INFO - iterating 61 
+2024-05-06 02:59:12,787 - my_logger - INFO - iterating 62 
+2024-05-06 02:59:13,079 - my_logger - INFO - iterating 63 
+2024-05-06 02:59:13,234 - my_logger - INFO - iterating 64 
+2024-05-06 02:59:13,521 - my_logger - INFO - iterating 65 
+2024-05-06 02:59:13,679 - my_logger - INFO - iterating 66 
+2024-05-06 02:59:13,945 - my_logger - INFO - iterating 67 
+2024-05-06 02:59:14,120 - my_logger - INFO - iterating 68 
+2024-05-06 02:59:14,383 - my_logger - INFO - iterating 69 
+2024-05-06 02:59:14,533 - my_logger - INFO - iterating 70 
+2024-05-06 02:59:14,796 - my_logger - INFO - iterating 71 
+2024-05-06 02:59:14,947 - my_logger - INFO - iterating 72 
+2024-05-06 02:59:15,250 - my_logger - INFO - iterating 73 
+2024-05-06 02:59:15,417 - my_logger - INFO - iterating 74 
+2024-05-06 02:59:15,645 - my_logger - INFO - iterating 75 
+2024-05-06 02:59:15,802 - my_logger - INFO - iterating 76 
+2024-05-06 02:59:16,062 - my_logger - INFO - iterating 77 
+2024-05-06 02:59:16,216 - my_logger - INFO - iterating 78 
+2024-05-06 02:59:16,466 - my_logger - INFO - iterating 79 
+2024-05-06 02:59:16,620 - my_logger - INFO - iterating 80 
+2024-05-06 02:59:16,862 - my_logger - INFO - iterating 81 
+2024-05-06 02:59:17,020 - my_logger - INFO - iterating 82 
+2024-05-06 02:59:17,258 - my_logger - INFO - iterating 83 
+2024-05-06 02:59:17,407 - my_logger - INFO - iterating 84 
+2024-05-06 02:59:17,584 - my_logger - INFO - iterating 85 
+2024-05-06 02:59:17,775 - my_logger - INFO - iterating 86 
+2024-05-06 02:59:18,034 - my_logger - INFO - iterating 87 
+2024-05-06 02:59:18,196 - my_logger - INFO - iterating 88 
+2024-05-06 02:59:18,496 - my_logger - INFO - iterating 89 
+2024-05-06 02:59:18,670 - my_logger - INFO - iterating 90 
+2024-05-06 02:59:18,942 - my_logger - INFO - iterating 91 
+2024-05-06 02:59:19,100 - my_logger - INFO - iterating 92 
+2024-05-06 02:59:19,361 - my_logger - INFO - iterating 93 
+2024-05-06 02:59:19,516 - my_logger - INFO - iterating 94 
+2024-05-06 02:59:19,791 - my_logger - INFO - iterating 95 
+2024-05-06 02:59:19,954 - my_logger - INFO - iterating 96 
+2024-05-06 02:59:20,204 - my_logger - INFO - iterating 97 
+2024-05-06 02:59:20,370 - my_logger - INFO - iterating 98 
+2024-05-06 02:59:20,504 - my_logger - INFO - iterating 99 
+2024-05-06 02:59:20,659 - my_logger - INFO - iterating 100 
+2024-05-06 02:59:20,787 - my_logger - INFO - iterating 101 
+2024-05-06 02:59:20,938 - my_logger - INFO - iterating 102 
+2024-05-06 02:59:21,071 - my_logger - INFO - iterating 103 
+2024-05-06 02:59:21,231 - my_logger - INFO - iterating 104 
+2024-05-06 02:59:21,372 - my_logger - INFO - iterating 105 
+2024-05-06 02:59:21,541 - my_logger - INFO - iterating 106 
+2024-05-06 02:59:21,679 - my_logger - INFO - iterating 107 
+2024-05-06 02:59:21,821 - my_logger - INFO - iterating 108 
+2024-05-06 02:59:21,946 - my_logger - INFO - iterating 109 
+2024-05-06 02:59:22,108 - my_logger - INFO - iterating 110 
+2024-05-06 02:59:22,246 - my_logger - INFO - iterating 111 
+2024-05-06 02:59:22,395 - my_logger - INFO - iterating 112 
+2024-05-06 02:59:22,532 - my_logger - INFO - iterating 113 
+2024-05-06 02:59:22,704 - my_logger - INFO - iterating 114 
+2024-05-06 02:59:22,837 - my_logger - INFO - iterating 115 
+2024-05-06 02:59:23,009 - my_logger - INFO - iterating 116 
+2024-05-06 02:59:23,138 - my_logger - INFO - iterating 117 
+2024-05-06 02:59:23,320 - my_logger - INFO - iterating 118 
+2024-05-06 02:59:23,454 - my_logger - INFO - iterating 119 
+2024-05-06 02:59:23,635 - my_logger - INFO - iterating 120 
+2024-05-06 02:59:23,775 - my_logger - INFO - iterating 121 
+2024-05-06 02:59:23,925 - my_logger - INFO - iterating 122 
+2024-05-06 02:59:24,062 - my_logger - INFO - iterating 123 
+2024-05-06 02:59:24,237 - my_logger - INFO - iterating 124 
+2024-05-06 02:59:24,369 - my_logger - INFO - iterating 125 
+2024-05-06 02:59:24,525 - my_logger - INFO - iterating 126 
+2024-05-06 02:59:24,655 - my_logger - INFO - iterating 127 
+2024-05-06 02:59:24,808 - my_logger - INFO - iterating 128 
+2024-05-06 02:59:24,945 - my_logger - INFO - iterating 129 
+2024-05-06 02:59:25,087 - my_logger - INFO - iterating 130 
+2024-05-06 02:59:25,222 - my_logger - INFO - iterating 131 
+2024-05-06 02:59:25,367 - my_logger - INFO - iterating 132 
+2024-05-06 02:59:25,501 - my_logger - INFO - iterating 133 
+2024-05-06 02:59:25,654 - my_logger - INFO - iterating 134 
+2024-05-06 02:59:25,783 - my_logger - INFO - iterating 135 
+2024-05-06 02:59:25,916 - my_logger - INFO - iterating 136 
+2024-05-06 02:59:26,054 - my_logger - INFO - iterating 137 
+2024-05-06 02:59:26,187 - my_logger - INFO - iterating 138 
+2024-05-06 02:59:26,354 - my_logger - INFO - iterating 139 
+2024-05-06 02:59:26,487 - my_logger - INFO - iterating 140 
+2024-05-06 02:59:26,645 - my_logger - INFO - iterating 141 
+2024-05-06 02:59:26,774 - my_logger - INFO - iterating 142 
+2024-05-06 02:59:26,938 - my_logger - INFO - iterating 143 
+2024-05-06 02:59:27,079 - my_logger - INFO - iterating 144 
+2024-05-06 02:59:27,258 - my_logger - INFO - iterating 145 
+2024-05-06 02:59:27,392 - my_logger - INFO - iterating 146 
+2024-05-06 02:59:27,551 - my_logger - INFO - iterating 147 
+2024-05-06 02:59:27,678 - my_logger - INFO - iterating 148 
+2024-05-06 02:59:27,859 - my_logger - INFO - iterating 149 
+2024-05-06 02:59:27,987 - my_logger - INFO - iterating 150 
+2024-05-06 02:59:28,154 - my_logger - INFO - iterating 151 
+2024-05-06 02:59:28,287 - my_logger - INFO - iterating 152 
+2024-05-06 02:59:28,454 - my_logger - INFO - iterating 153 
+2024-05-06 02:59:28,584 - my_logger - INFO - iterating 154 
+2024-05-06 02:59:28,750 - my_logger - INFO - iterating 155 
+2024-05-06 02:59:28,969 - my_logger - INFO - iterating 156 
+2024-05-06 02:59:29,146 - my_logger - INFO - iterating 157 
+2024-05-06 02:59:29,278 - my_logger - INFO - iterating 158 
+2024-05-06 02:59:29,443 - my_logger - INFO - iterating 159 
+2024-05-06 02:59:29,586 - my_logger - INFO - iterating 160 
+2024-05-06 02:59:29,754 - my_logger - INFO - iterating 161 
+2024-05-06 02:59:29,887 - my_logger - INFO - iterating 162 
+2024-05-06 02:59:30,054 - my_logger - INFO - iterating 163 
+2024-05-06 02:59:30,183 - my_logger - INFO - iterating 164 
+2024-05-06 02:59:30,339 - my_logger - INFO - iterating 165 
+2024-05-06 02:59:30,465 - my_logger - INFO - iterating 166 
+2024-05-06 02:59:30,633 - my_logger - INFO - iterating 167 
+2024-05-06 02:59:30,776 - my_logger - INFO - iterating 168 
+2024-05-06 02:59:30,925 - my_logger - INFO - iterating 169 
+2024-05-06 02:59:31,064 - my_logger - INFO - iterating 170 
+2024-05-06 02:59:31,217 - my_logger - INFO - iterating 171 
+2024-05-06 02:59:31,356 - my_logger - INFO - iterating 172 
+2024-05-06 02:59:31,509 - my_logger - INFO - iterating 173 
+2024-05-06 02:59:31,653 - my_logger - INFO - iterating 174 
+2024-05-06 02:59:31,804 - my_logger - INFO - iterating 175 
+2024-05-06 02:59:31,933 - my_logger - INFO - iterating 176 
+2024-05-06 02:59:32,092 - my_logger - INFO - iterating 177 
+2024-05-06 02:59:32,225 - my_logger - INFO - iterating 178 
+2024-05-06 02:59:32,383 - my_logger - INFO - iterating 179 
+2024-05-06 02:59:32,515 - my_logger - INFO - iterating 180 
+2024-05-06 02:59:32,691 - my_logger - INFO - iterating 181 
+2024-05-06 02:59:32,824 - my_logger - INFO - iterating 182 
+2024-05-06 02:59:32,995 - my_logger - INFO - iterating 183 
+2024-05-06 02:59:33,125 - my_logger - INFO - iterating 184 
+2024-05-06 02:59:33,296 - my_logger - INFO - iterating 185 
+2024-05-06 02:59:33,439 - my_logger - INFO - iterating 186 
+2024-05-06 02:59:33,579 - my_logger - INFO - iterating 187 
+2024-05-06 02:59:33,715 - my_logger - INFO - iterating 188 
+2024-05-06 02:59:33,860 - my_logger - INFO - iterating 189 
+2024-05-06 02:59:34,020 - my_logger - INFO - iterating 190 
+2024-05-06 02:59:34,151 - my_logger - INFO - iterating 191 
+2024-05-06 02:59:34,316 - my_logger - INFO - iterating 192 
+2024-05-06 02:59:34,452 - my_logger - INFO - iterating 193 
+2024-05-06 02:59:34,613 - my_logger - INFO - iterating 194 
+2024-05-06 02:59:34,752 - my_logger - INFO - iterating 195 
+2024-05-06 02:59:34,912 - my_logger - INFO - iterating 196 
+2024-05-06 02:59:35,049 - my_logger - INFO - iterating 197 
+2024-05-06 02:59:35,237 - my_logger - INFO - iterating 198 
+2024-05-06 02:59:35,369 - my_logger - INFO - iterating 199 
+2024-05-06 02:59:35,533 - my_logger - INFO - iterating 200 
+2024-05-06 02:59:35,662 - my_logger - INFO - iterating 201 
+2024-05-06 02:59:35,808 - my_logger - INFO - iterating 202 
+2024-05-06 02:59:35,945 - my_logger - INFO - iterating 203 
+2024-05-06 02:59:36,091 - my_logger - INFO - iterating 204 
+2024-05-06 02:59:36,231 - my_logger - INFO - iterating 205 
+2024-05-06 02:59:36,383 - my_logger - INFO - iterating 206 
+2024-05-06 02:59:36,508 - my_logger - INFO - iterating 207 
+2024-05-06 02:59:36,672 - my_logger - INFO - iterating 208 
+2024-05-06 02:59:36,804 - my_logger - INFO - iterating 209 
+2024-05-06 02:59:36,962 - my_logger - INFO - iterating 210 
+2024-05-06 02:59:37,100 - my_logger - INFO - iterating 211 
+2024-05-06 02:59:37,267 - my_logger - INFO - iterating 212 
+2024-05-06 02:59:37,400 - my_logger - INFO - iterating 213 
+2024-05-06 02:59:37,567 - my_logger - INFO - iterating 214 
+2024-05-06 02:59:37,700 - my_logger - INFO - iterating 215 
+2024-05-06 02:59:37,870 - my_logger - INFO - iterating 216 
+2024-05-06 02:59:38,000 - my_logger - INFO - iterating 217 
+2024-05-06 02:59:38,179 - my_logger - INFO - iterating 218 
+2024-05-06 02:59:38,312 - my_logger - INFO - iterating 219 
+2024-05-06 02:59:38,483 - my_logger - INFO - iterating 220 
+2024-05-06 02:59:38,620 - my_logger - INFO - iterating 221 
+2024-05-06 02:59:38,800 - my_logger - INFO - iterating 222 
+2024-05-06 02:59:38,933 - my_logger - INFO - iterating 223 
+2024-05-06 02:59:39,101 - my_logger - INFO - iterating 224 
+2024-05-06 02:59:39,235 - my_logger - INFO - iterating 225 
+2024-05-06 02:59:39,395 - my_logger - INFO - iterating 226 
+2024-05-06 02:59:39,529 - my_logger - INFO - iterating 227 
+2024-05-06 02:59:39,679 - my_logger - INFO - iterating 228 
+2024-05-06 02:59:39,808 - my_logger - INFO - iterating 229 
+2024-05-06 02:59:39,966 - my_logger - INFO - iterating 230 
+2024-05-06 02:59:40,096 - my_logger - INFO - iterating 231 
+2024-05-06 02:59:40,262 - my_logger - INFO - iterating 232 
+2024-05-06 02:59:40,396 - my_logger - INFO - iterating 233 
+2024-05-06 02:59:40,550 - my_logger - INFO - iterating 234 
+2024-05-06 02:59:40,682 - my_logger - INFO - iterating 235 
+2024-05-06 02:59:40,838 - my_logger - INFO - iterating 236 
+2024-05-06 02:59:40,963 - my_logger - INFO - iterating 237 
+2024-05-06 02:59:41,104 - my_logger - INFO - iterating 238 
+2024-05-06 02:59:41,260 - my_logger - INFO - iterating 239 
+2024-05-06 02:59:41,397 - my_logger - INFO - iterating 240 
+2024-05-06 02:59:41,561 - my_logger - INFO - iterating 241 
+2024-05-06 02:59:41,687 - my_logger - INFO - iterating 242 
+2024-05-06 02:59:41,845 - my_logger - INFO - iterating 243 
+2024-05-06 02:59:41,975 - my_logger - INFO - iterating 244 
+2024-05-06 02:59:42,142 - my_logger - INFO - iterating 245 
+2024-05-06 02:59:42,266 - my_logger - INFO - iterating 246 
+2024-05-06 03:04:01,202 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:56,495 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:56,558 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:56,609 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:56,670 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:56,733 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:56,779 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:56,830 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:56,894 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:56,941 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:57,010 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:57,067 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:57,123 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:57,178 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:57,240 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:57,287 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:57,354 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:57,433 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:57,511 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:57,558 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:57,621 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:57,684 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:57,758 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:57,811 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:57,893 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:57,956 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:58,054 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:58,114 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:58,203 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:58,260 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:58,351 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:58,412 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:58,495 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:58,558 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:58,652 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:58,700 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:58,793 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:58,843 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:58,954 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:59,004 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:59,098 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:59,162 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:59,241 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:59,303 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:59,398 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:59,445 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:59,528 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:59,591 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:59,685 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:59,743 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:59,842 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:59,889 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:04:59,984 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:00,038 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:00,148 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:00,206 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:00,291 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:00,354 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:00,433 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:00,481 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:00,562 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:00,615 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:00,715 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:00,769 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:00,863 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:00,916 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:01,005 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:01,069 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:01,150 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:01,197 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:01,260 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:01,323 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:01,386 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:01,450 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:01,544 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:01,607 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:01,704 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:01,751 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:01,847 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:01,910 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:01,988 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:02,035 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:02,130 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:02,180 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:02,243 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:02,291 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:02,354 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:02,401 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:02,466 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:02,528 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:02,575 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:02,639 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:02,692 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:02,754 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:02,800 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:02,864 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:02,919 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:02,980 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:03,037 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:03,100 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:03,154 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:03,219 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:03,276 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:03,323 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:03,386 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:03,449 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:03,497 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:03,560 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:03,612 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:03,671 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:03,738 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:03,785 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:03,848 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:03,895 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:03,958 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,005 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,069 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,121 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,179 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,226 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,277 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,339 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,402 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,449 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,513 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,560 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,623 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,671 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,733 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,780 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,846 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,893 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:04,956 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,009 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,067 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,122 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,178 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,241 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,289 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,352 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,406 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,453 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,523 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,580 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,634 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,692 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,739 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,801 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,856 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,909 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:05,972 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,024 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,084 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,146 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,193 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,257 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,311 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,351 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,414 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,464 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,528 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,575 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,638 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,685 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,748 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,796 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,859 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,926 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:06,976 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,026 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,086 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,149 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,196 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,259 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,321 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,369 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,432 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,483 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,546 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,593 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,656 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,703 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,766 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,813 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,875 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,929 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:07,986 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,036 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,098 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,145 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,208 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,255 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,318 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,365 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,430 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,476 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,539 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,589 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,637 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,699 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,762 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,809 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,858 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,920 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:08,983 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,031 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,096 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,143 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,206 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,253 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,317 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,364 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,431 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,474 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,537 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,584 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,649 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,712 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,759 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,822 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,869 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,932 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:09,988 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:10,042 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:10,105 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:10,158 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:10,213 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:10,268 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:10,315 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:10,378 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:10,441 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:10,488 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:52,759 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:52,823 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:52,869 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:52,935 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:52,996 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:53,054 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:53,112 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:53,157 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:53,224 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:53,269 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:53,332 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:53,379 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:53,442 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:53,505 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:53,552 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:53,616 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:53,682 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:53,729 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:53,796 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:53,856 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:53,925 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:53,998 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:54,061 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:54,156 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:54,206 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:54,317 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:54,380 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:54,474 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:54,535 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:54,616 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:54,663 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:54,769 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:54,832 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:54,926 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:54,974 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:55,070 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:55,133 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:55,244 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:55,294 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:55,395 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:55,459 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:55,555 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:55,618 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:55,686 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:55,751 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:55,850 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:55,904 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:55,994 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:56,057 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:56,164 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:56,227 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:56,328 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:56,398 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:56,515 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:56,565 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:56,665 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:56,728 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:56,829 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:56,892 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:56,955 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:57,029 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:57,129 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:57,175 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:57,287 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:57,334 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:57,430 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:57,493 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:57,571 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:57,634 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:57,698 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:57,767 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:57,840 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:57,906 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:58,000 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:58,048 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:58,142 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:58,216 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:58,300 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:58,348 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:58,453 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:58,506 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:58,591 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:58,649 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:58,696 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:58,759 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:58,806 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:58,879 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:58,935 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:58,983 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:59,045 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:59,105 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:59,156 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:59,219 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:59,279 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:59,333 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:59,392 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:59,457 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:59,511 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:59,575 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:59,634 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:59,685 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:59,749 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:59,811 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:59,874 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:59,934 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:05:59,986 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:00,049 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:00,096 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:00,159 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:00,206 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:00,273 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:00,317 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:00,380 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:00,446 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:00,507 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:00,555 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:00,618 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:00,681 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:00,744 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:00,810 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:00,873 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:00,937 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:01,000 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:01,063 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:01,126 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:01,188 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:01,251 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:01,329 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:01,392 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:01,458 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:01,518 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:01,581 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:01,643 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:01,707 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:01,770 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:01,839 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:01,895 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:01,974 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:02,039 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:02,099 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:02,162 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:02,225 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:02,287 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:02,349 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:02,412 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:02,475 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:02,523 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:02,585 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:02,649 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:02,696 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:02,759 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:02,821 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:02,884 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:02,941 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:02,994 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:03,057 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:03,104 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:03,167 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:03,230 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:03,293 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:03,343 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:03,403 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:03,466 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:03,529 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:03,576 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:03,643 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:03,686 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:03,749 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:03,812 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:03,875 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:03,922 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:03,985 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:04,048 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:04,111 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:04,174 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:04,237 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:04,284 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:04,348 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:04,410 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:04,473 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:04,545 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:04,599 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:04,663 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:04,725 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:04,788 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:04,851 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:04,898 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:04,961 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:05,024 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:05,071 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:05,134 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:05,197 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:05,246 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:05,307 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:05,369 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:05,432 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:05,487 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:05,547 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:05,593 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:05,657 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:05,725 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:05,782 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:05,861 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:05,923 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:05,986 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:06,065 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:06,127 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:06,221 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:06,286 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:06,355 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:06,427 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:06,490 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:06,552 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:06,631 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:06,693 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:06,756 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:06,819 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:06,882 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:06,950 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:07,008 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:07,071 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:07,118 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:07,181 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:07,250 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:07,307 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:07,387 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:07,451 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:07,527 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:07,605 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:07,667 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:06:07,730 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:09:32,569 - my_logger - INFO - Found 229 images for search key: Lamborghini Car photography
+2024-05-06 03:09:32,585 - my_logger - INFO - iterating 0 
+2024-05-06 03:09:32,585 - my_logger - INFO - iterating 7 
+2024-05-06 03:09:32,774 - my_logger - INFO - iterating 8 
+2024-05-06 03:09:32,946 - my_logger - INFO - iterating 9 
+2024-05-06 03:09:33,110 - my_logger - INFO - iterating 10 
+2024-05-06 03:09:33,262 - my_logger - INFO - iterating 11 
+2024-05-06 03:09:33,417 - my_logger - INFO - iterating 12 
+2024-05-06 03:09:33,421 - my_logger - INFO - iterating 13 
+2024-05-06 03:09:33,421 - my_logger - INFO - iterating 14 
+2024-05-06 03:09:33,551 - my_logger - INFO - iterating 15 
+2024-05-06 03:09:33,684 - my_logger - INFO - iterating 16 
+2024-05-06 03:09:33,684 - my_logger - INFO - iterating 17 
+2024-05-06 03:09:33,950 - my_logger - INFO - iterating 18 
+2024-05-06 03:09:34,116 - my_logger - INFO - iterating 19 
+2024-05-06 03:09:34,395 - my_logger - INFO - iterating 20 
+2024-05-06 03:09:34,546 - my_logger - INFO - iterating 21 
+2024-05-06 03:09:34,800 - my_logger - INFO - iterating 22 
+2024-05-06 03:09:34,954 - my_logger - INFO - iterating 23 
+2024-05-06 03:09:35,154 - my_logger - INFO - iterating 24 
+2024-05-06 03:09:35,316 - my_logger - INFO - iterating 25 
+2024-05-06 03:09:35,590 - my_logger - INFO - iterating 26 
+2024-05-06 03:09:35,745 - my_logger - INFO - iterating 27 
+2024-05-06 03:09:36,008 - my_logger - INFO - iterating 28 
+2024-05-06 03:09:36,170 - my_logger - INFO - iterating 29 
+2024-05-06 03:09:36,440 - my_logger - INFO - iterating 30 
+2024-05-06 03:09:36,604 - my_logger - INFO - iterating 31 
+2024-05-06 03:09:36,876 - my_logger - INFO - iterating 32 
+2024-05-06 03:09:37,041 - my_logger - INFO - iterating 33 
+2024-05-06 03:09:37,324 - my_logger - INFO - iterating 34 
+2024-05-06 03:09:37,500 - my_logger - INFO - iterating 35 
+2024-05-06 03:09:37,762 - my_logger - INFO - iterating 36 
+2024-05-06 03:09:37,958 - my_logger - INFO - iterating 37 
+2024-05-06 03:09:38,226 - my_logger - INFO - iterating 38 
+2024-05-06 03:09:38,391 - my_logger - INFO - iterating 39 
+2024-05-06 03:09:38,721 - my_logger - INFO - iterating 40 
+2024-05-06 03:09:38,979 - my_logger - INFO - iterating 41 
+2024-05-06 03:09:39,342 - my_logger - INFO - iterating 42 
+2024-05-06 03:09:39,552 - my_logger - INFO - iterating 43 
+2024-05-06 03:09:39,864 - my_logger - INFO - iterating 44 
+2024-05-06 03:09:40,093 - my_logger - INFO - iterating 45 
+2024-05-06 03:09:40,460 - my_logger - INFO - iterating 46 
+2024-05-06 03:09:40,659 - my_logger - INFO - iterating 47 
+2024-05-06 03:09:41,025 - my_logger - INFO - iterating 48 
+2024-05-06 03:09:41,225 - my_logger - INFO - iterating 49 
+2024-05-06 03:09:41,568 - my_logger - INFO - iterating 50 
+2024-05-06 03:09:41,813 - my_logger - INFO - iterating 51 
+2024-05-06 03:09:42,146 - my_logger - INFO - iterating 52 
+2024-05-06 03:09:42,360 - my_logger - INFO - iterating 53 
+2024-05-06 03:09:42,704 - my_logger - INFO - iterating 54 
+2024-05-06 03:09:42,959 - my_logger - INFO - iterating 55 
+2024-05-06 03:09:43,372 - my_logger - INFO - iterating 56 
+2024-05-06 03:09:43,579 - my_logger - INFO - iterating 57 
+2024-05-06 03:09:43,932 - my_logger - INFO - iterating 58 
+2024-05-06 03:09:44,153 - my_logger - INFO - iterating 59 
+2024-05-06 03:09:44,512 - my_logger - INFO - iterating 60 
+2024-05-06 03:09:44,733 - my_logger - INFO - iterating 61 
+2024-05-06 03:09:45,017 - my_logger - INFO - iterating 62 
+2024-05-06 03:09:45,214 - my_logger - INFO - iterating 63 
+2024-05-06 03:09:45,542 - my_logger - INFO - iterating 64 
+2024-05-06 03:09:45,741 - my_logger - INFO - iterating 65 
+2024-05-06 03:09:45,960 - my_logger - INFO - iterating 66 
+2024-05-06 03:09:46,172 - my_logger - INFO - iterating 67 
+2024-05-06 03:09:46,380 - my_logger - INFO - iterating 68 
+2024-05-06 03:09:46,755 - my_logger - INFO - iterating 69 
+2024-05-06 03:09:46,959 - my_logger - INFO - iterating 70 
+2024-05-06 03:09:47,266 - my_logger - INFO - iterating 71 
+2024-05-06 03:09:47,478 - my_logger - INFO - iterating 72 
+2024-05-06 03:09:47,859 - my_logger - INFO - iterating 73 
+2024-05-06 03:09:48,050 - my_logger - INFO - iterating 74 
+2024-05-06 03:09:48,266 - my_logger - INFO - iterating 75 
+2024-05-06 03:09:48,458 - my_logger - INFO - iterating 76 
+2024-05-06 03:09:48,654 - my_logger - INFO - iterating 77 
+2024-05-06 03:09:48,850 - my_logger - INFO - iterating 78 
+2024-05-06 03:09:49,057 - my_logger - INFO - iterating 79 
+2024-05-06 03:09:49,246 - my_logger - INFO - iterating 80 
+2024-05-06 03:09:49,434 - my_logger - INFO - iterating 81 
+2024-05-06 03:09:49,645 - my_logger - INFO - iterating 82 
+2024-05-06 03:09:49,814 - my_logger - INFO - iterating 83 
+2024-05-06 03:09:50,025 - my_logger - INFO - iterating 84 
+2024-05-06 03:09:50,193 - my_logger - INFO - iterating 85 
+2024-05-06 03:09:50,388 - my_logger - INFO - iterating 86 
+2024-05-06 03:09:50,562 - my_logger - INFO - iterating 87 
+2024-05-06 03:09:50,737 - my_logger - INFO - iterating 88 
+2024-05-06 03:09:50,943 - my_logger - INFO - iterating 89 
+2024-05-06 03:09:51,125 - my_logger - INFO - iterating 90 
+2024-05-06 03:09:51,303 - my_logger - INFO - iterating 91 
+2024-05-06 03:09:51,470 - my_logger - INFO - iterating 92 
+2024-05-06 03:09:51,689 - my_logger - INFO - iterating 93 
+2024-05-06 03:09:51,866 - my_logger - INFO - iterating 94 
+2024-05-06 03:09:52,050 - my_logger - INFO - iterating 95 
+2024-05-06 03:09:52,245 - my_logger - INFO - iterating 96 
+2024-05-06 03:09:52,414 - my_logger - INFO - iterating 97 
+2024-05-06 03:09:52,625 - my_logger - INFO - iterating 98 
+2024-05-06 03:09:52,814 - my_logger - INFO - iterating 99 
+2024-05-06 03:09:53,034 - my_logger - INFO - iterating 100 
+2024-05-06 03:09:53,226 - my_logger - INFO - iterating 101 
+2024-05-06 03:09:53,425 - my_logger - INFO - iterating 102 
+2024-05-06 03:09:53,629 - my_logger - INFO - iterating 103 
+2024-05-06 03:09:53,809 - my_logger - INFO - iterating 104 
+2024-05-06 03:09:54,024 - my_logger - INFO - iterating 105 
+2024-05-06 03:09:54,226 - my_logger - INFO - iterating 106 
+2024-05-06 03:09:54,406 - my_logger - INFO - iterating 107 
+2024-05-06 03:09:54,584 - my_logger - INFO - iterating 108 
+2024-05-06 03:09:54,755 - my_logger - INFO - iterating 109 
+2024-05-06 03:09:54,911 - my_logger - INFO - iterating 110 
+2024-05-06 03:09:55,112 - my_logger - INFO - iterating 111 
+2024-05-06 03:09:55,318 - my_logger - INFO - iterating 112 
+2024-05-06 03:09:55,486 - my_logger - INFO - iterating 113 
+2024-05-06 03:09:55,692 - my_logger - INFO - iterating 114 
+2024-05-06 03:09:55,872 - my_logger - INFO - iterating 115 
+2024-05-06 03:09:56,065 - my_logger - INFO - iterating 116 
+2024-05-06 03:09:56,230 - my_logger - INFO - iterating 117 
+2024-05-06 03:09:56,406 - my_logger - INFO - iterating 118 
+2024-05-06 03:09:56,576 - my_logger - INFO - iterating 119 
+2024-05-06 03:09:56,714 - my_logger - INFO - iterating 120 
+2024-05-06 03:09:56,937 - my_logger - INFO - iterating 121 
+2024-05-06 03:09:57,130 - my_logger - INFO - iterating 122 
+2024-05-06 03:09:57,325 - my_logger - INFO - iterating 123 
+2024-05-06 03:09:57,510 - my_logger - INFO - iterating 124 
+2024-05-06 03:09:57,695 - my_logger - INFO - iterating 125 
+2024-05-06 03:09:57,881 - my_logger - INFO - iterating 126 
+2024-05-06 03:09:58,075 - my_logger - INFO - iterating 127 
+2024-05-06 03:09:58,250 - my_logger - INFO - iterating 128 
+2024-05-06 03:09:58,454 - my_logger - INFO - iterating 129 
+2024-05-06 03:09:58,649 - my_logger - INFO - iterating 130 
+2024-05-06 03:09:58,842 - my_logger - INFO - iterating 131 
+2024-05-06 03:09:59,075 - my_logger - INFO - iterating 132 
+2024-05-06 03:09:59,266 - my_logger - INFO - iterating 133 
+2024-05-06 03:09:59,461 - my_logger - INFO - iterating 134 
+2024-05-06 03:09:59,641 - my_logger - INFO - iterating 135 
+2024-05-06 03:09:59,809 - my_logger - INFO - iterating 136 
+2024-05-06 03:10:00,025 - my_logger - INFO - iterating 137 
+2024-05-06 03:10:00,233 - my_logger - INFO - iterating 138 
+2024-05-06 03:10:00,429 - my_logger - INFO - iterating 139 
+2024-05-06 03:10:00,610 - my_logger - INFO - iterating 140 
+2024-05-06 03:10:00,804 - my_logger - INFO - iterating 141 
+2024-05-06 03:10:00,993 - my_logger - INFO - iterating 142 
+2024-05-06 03:10:01,189 - my_logger - INFO - iterating 143 
+2024-05-06 03:10:01,364 - my_logger - INFO - iterating 144 
+2024-05-06 03:10:01,568 - my_logger - INFO - iterating 145 
+2024-05-06 03:10:01,759 - my_logger - INFO - iterating 146 
+2024-05-06 03:10:01,954 - my_logger - INFO - iterating 147 
+2024-05-06 03:10:02,124 - my_logger - INFO - iterating 148 
+2024-05-06 03:10:02,317 - my_logger - INFO - iterating 149 
+2024-05-06 03:10:02,461 - my_logger - INFO - iterating 150 
+2024-05-06 03:10:02,669 - my_logger - INFO - iterating 151 
+2024-05-06 03:10:02,832 - my_logger - INFO - iterating 152 
+2024-05-06 03:10:03,042 - my_logger - INFO - iterating 153 
+2024-05-06 03:10:03,238 - my_logger - INFO - iterating 154 
+2024-05-06 03:10:03,450 - my_logger - INFO - iterating 155 
+2024-05-06 03:10:03,597 - my_logger - INFO - iterating 156 
+2024-05-06 03:10:03,806 - my_logger - INFO - iterating 157 
+2024-05-06 03:10:03,983 - my_logger - INFO - iterating 158 
+2024-05-06 03:10:04,172 - my_logger - INFO - iterating 159 
+2024-05-06 03:10:04,360 - my_logger - INFO - iterating 160 
+2024-05-06 03:10:04,546 - my_logger - INFO - iterating 161 
+2024-05-06 03:10:04,730 - my_logger - INFO - iterating 162 
+2024-05-06 03:10:04,923 - my_logger - INFO - iterating 163 
+2024-05-06 03:10:05,117 - my_logger - INFO - iterating 164 
+2024-05-06 03:10:05,308 - my_logger - INFO - iterating 165 
+2024-05-06 03:10:05,472 - my_logger - INFO - iterating 166 
+2024-05-06 03:10:05,646 - my_logger - INFO - iterating 167 
+2024-05-06 03:10:05,817 - my_logger - INFO - iterating 168 
+2024-05-06 03:10:05,989 - my_logger - INFO - iterating 169 
+2024-05-06 03:10:06,171 - my_logger - INFO - iterating 170 
+2024-05-06 03:10:06,324 - my_logger - INFO - iterating 171 
+2024-05-06 03:10:06,501 - my_logger - INFO - iterating 172 
+2024-05-06 03:10:06,651 - my_logger - INFO - iterating 173 
+2024-05-06 03:10:06,819 - my_logger - INFO - iterating 174 
+2024-05-06 03:10:07,050 - my_logger - INFO - iterating 175 
+2024-05-06 03:10:07,241 - my_logger - INFO - iterating 176 
+2024-05-06 03:10:07,410 - my_logger - INFO - iterating 177 
+2024-05-06 03:10:07,608 - my_logger - INFO - iterating 178 
+2024-05-06 03:10:07,800 - my_logger - INFO - iterating 179 
+2024-05-06 03:10:08,004 - my_logger - INFO - iterating 180 
+2024-05-06 03:10:08,206 - my_logger - INFO - iterating 181 
+2024-05-06 03:10:08,396 - my_logger - INFO - iterating 182 
+2024-05-06 03:10:08,592 - my_logger - INFO - iterating 183 
+2024-05-06 03:10:08,878 - my_logger - INFO - iterating 184 
+2024-05-06 03:10:09,073 - my_logger - INFO - iterating 185 
+2024-05-06 03:10:09,251 - my_logger - INFO - iterating 186 
+2024-05-06 03:10:09,458 - my_logger - INFO - iterating 187 
+2024-05-06 03:10:09,642 - my_logger - INFO - iterating 188 
+2024-05-06 03:10:09,822 - my_logger - INFO - iterating 189 
+2024-05-06 03:10:10,048 - my_logger - INFO - iterating 190 
+2024-05-06 03:10:10,242 - my_logger - INFO - iterating 191 
+2024-05-06 03:10:10,453 - my_logger - INFO - iterating 192 
+2024-05-06 03:10:10,644 - my_logger - INFO - iterating 193 
+2024-05-06 03:10:10,846 - my_logger - INFO - iterating 194 
+2024-05-06 03:10:11,056 - my_logger - INFO - iterating 195 
+2024-05-06 03:10:11,261 - my_logger - INFO - iterating 196 
+2024-05-06 03:10:11,451 - my_logger - INFO - iterating 197 
+2024-05-06 03:10:11,669 - my_logger - INFO - iterating 198 
+2024-05-06 03:10:11,846 - my_logger - INFO - iterating 199 
+2024-05-06 03:10:12,045 - my_logger - INFO - iterating 200 
+2024-05-06 03:10:12,237 - my_logger - INFO - iterating 201 
+2024-05-06 03:10:12,433 - my_logger - INFO - iterating 202 
+2024-05-06 03:10:12,565 - my_logger - INFO - iterating 203 
+2024-05-06 03:10:12,754 - my_logger - INFO - iterating 204 
+2024-05-06 03:10:12,930 - my_logger - INFO - iterating 205 
+2024-05-06 03:10:13,149 - my_logger - INFO - iterating 206 
+2024-05-06 03:10:13,300 - my_logger - INFO - iterating 207 
+2024-05-06 03:10:13,483 - my_logger - INFO - iterating 208 
+2024-05-06 03:10:13,664 - my_logger - INFO - iterating 209 
+2024-05-06 03:10:13,852 - my_logger - INFO - iterating 210 
+2024-05-06 03:10:14,023 - my_logger - INFO - iterating 211 
+2024-05-06 03:10:14,234 - my_logger - INFO - iterating 212 
+2024-05-06 03:10:14,427 - my_logger - INFO - iterating 213 
+2024-05-06 03:10:14,593 - my_logger - INFO - iterating 214 
+2024-05-06 03:10:14,779 - my_logger - INFO - iterating 215 
+2024-05-06 03:10:15,000 - my_logger - INFO - iterating 216 
+2024-05-06 03:10:15,169 - my_logger - INFO - iterating 217 
+2024-05-06 03:10:15,375 - my_logger - INFO - iterating 218 
+2024-05-06 03:10:15,568 - my_logger - INFO - iterating 219 
+2024-05-06 03:10:15,755 - my_logger - INFO - iterating 220 
+2024-05-06 03:10:15,935 - my_logger - INFO - iterating 221 
+2024-05-06 03:10:16,101 - my_logger - INFO - iterating 222 
+2024-05-06 03:10:16,313 - my_logger - INFO - iterating 223 
+2024-05-06 03:10:16,496 - my_logger - INFO - iterating 224 
+2024-05-06 03:10:16,687 - my_logger - INFO - iterating 225 
+2024-05-06 03:10:16,875 - my_logger - INFO - iterating 226 
+2024-05-06 03:10:17,080 - my_logger - INFO - iterating 227 
+2024-05-06 03:10:17,259 - my_logger - INFO - iterating 228 
+2024-05-06 03:10:17,592 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:17,647 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:17,712 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:17,771 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:17,823 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:17,886 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:17,934 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:17,997 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:18,092 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:18,150 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:18,235 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:18,297 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:18,377 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:18,424 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:18,506 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:18,566 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:18,645 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:18,724 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:18,788 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:18,855 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:18,930 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:18,992 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:19,087 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:19,134 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:19,229 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:19,292 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:19,385 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:19,448 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:19,542 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:19,592 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:19,701 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:19,764 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:19,874 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:19,953 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:20,067 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:20,159 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:20,300 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:20,394 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:20,522 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:20,609 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:20,743 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:20,838 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:20,980 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:21,059 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:21,184 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:21,264 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:21,392 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:21,452 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:21,578 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:21,656 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:21,798 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:21,893 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:22,036 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:22,130 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:22,256 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:22,354 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:22,463 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:22,557 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:22,668 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:22,794 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:22,892 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:23,037 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:23,112 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:23,237 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:23,331 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:23,393 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:23,472 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:23,535 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:23,614 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:23,677 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:23,751 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:23,820 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:23,883 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:23,946 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:24,013 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:24,078 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:24,136 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:24,198 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:24,261 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:24,333 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:24,388 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:24,451 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:24,516 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:24,594 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:24,657 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:24,741 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:24,802 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:24,894 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:24,972 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:25,035 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:25,117 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:25,197 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:25,276 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:25,355 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:25,446 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:25,515 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:25,592 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:25,687 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:25,750 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:25,829 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:25,895 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:25,972 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:26,035 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:26,103 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:26,173 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:26,227 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:26,305 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:26,369 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:26,432 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:26,494 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:26,574 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:26,636 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:26,717 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:26,780 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:26,842 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:26,921 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:26,984 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:27,047 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:27,126 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:27,191 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:27,255 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:27,318 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:27,380 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:27,443 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:27,518 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:27,573 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:27,649 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:27,719 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:27,775 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:27,847 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:27,919 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:27,989 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:28,052 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:28,130 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:28,198 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:28,274 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:28,337 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:28,400 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:28,479 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:28,542 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:28,621 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:28,684 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:28,763 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:28,826 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:28,893 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:28,951 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:29,020 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:29,093 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:29,156 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:29,221 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:29,298 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:29,361 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:29,425 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:29,487 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:29,550 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:29,628 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:29,691 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:29,754 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:29,833 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:29,895 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:29,959 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:30,037 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:30,100 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:30,176 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:30,242 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:30,304 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:30,369 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:30,433 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:30,495 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:30,573 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:30,636 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:30,699 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:30,777 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:30,840 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:30,924 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:30,982 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:31,061 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:31,124 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:31,202 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:31,281 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:31,344 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:31,425 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:31,486 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:31,549 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:31,627 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:31,706 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:31,769 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:31,832 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:31,910 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:31,973 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:32,036 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:32,115 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:32,178 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:32,243 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:32,305 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:32,368 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:32,431 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:32,510 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:32,573 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:32,637 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:32,703 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:32,767 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:32,828 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:32,891 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:32,970 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:33,033 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:33,099 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:33,163 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:33,241 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:33,304 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:33,367 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:33,445 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:33,507 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:33,570 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:33,652 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:33,714 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:33,793 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:33,856 - my_logger - INFO - Image resolution is greater than 256x256
+2024-05-06 03:10:33,935 - my_logger - INFO - Image resolution is greater than 256x256
